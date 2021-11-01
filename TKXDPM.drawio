@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T02:08:23.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="W_U-wQYTmLkrPjSRaqW-" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T04:51:44.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="8zs9-etUqAxZdnX78kHO" version="15.6.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,13 +214,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LVYipWUt2HfuR8H8bvmg-106" value="Pool" style="swimlane;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1740" width="530" height="510" as="geometry" />
+          <mxGeometry x="580" y="1740" width="790" height="510" as="geometry" />
         </mxCell>
         <mxCell id="LVYipWUt2HfuR8H8bvmg-107" value="Customer" style="swimlane;horizontal=0;fontSize=18;" vertex="1" parent="LVYipWUt2HfuR8H8bvmg-106">
-          <mxGeometry y="20" width="530" height="290" as="geometry" />
+          <mxGeometry y="20" width="790" height="290" as="geometry" />
         </mxCell>
         <mxCell id="LVYipWUt2HfuR8H8bvmg-108" value="Customer service" style="swimlane;horizontal=0;fontSize=18;" vertex="1" parent="LVYipWUt2HfuR8H8bvmg-107">
-          <mxGeometry y="290" width="530" height="200" as="geometry" />
+          <mxGeometry y="290" width="790" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LVYipWUt2HfuR8H8bvmg-109" value="check policy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="970" y="1360" width="60" height="60" as="geometry" />
