@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T02:16:11.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9iZIsDpX-oC-bbeu6Ydw" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T02:18:37.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ZpGxSNKGC2MPosiBqCnU" version="15.7.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,6 +309,15 @@
             <mxPoint x="744.5" y="447.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4ipHVBqgrEtnoz3Z2VYG-2" value="" style="shape=message;html=1;outlineConnect=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingRight=5;labelBackgroundColor=#ffffff;" vertex="1" parent="Lrx8VCLLBNuSJkm3dd1B-9">
+          <mxGeometry x="1445" y="106" width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="4ipHVBqgrEtnoz3Z2VYG-4" value="Bill with an order number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Lrx8VCLLBNuSJkm3dd1B-9">
+          <mxGeometry x="1390" y="72.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ipHVBqgrEtnoz3Z2VYG-5" value="Bill with an order number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Lrx8VCLLBNuSJkm3dd1B-9">
+          <mxGeometry x="1400" y="82.5" width="150" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Lrx8VCLLBNuSJkm3dd1B-23" value="Payment &lt;br&gt;request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="35" width="60" height="30" as="geometry" />
         </mxCell>
@@ -360,6 +369,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="580" y="-62.5" as="sourcePoint" />
             <mxPoint x="580" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ipHVBqgrEtnoz3Z2VYG-3" value="" style="dashed=1;dashPattern=8 4;endArrow=blockThin;endFill=1;startArrow=oval;startFill=0;endSize=6;startSize=4;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Lrx8VCLLBNuSJkm3dd1B-44" target="4ipHVBqgrEtnoz3Z2VYG-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1650" y="195" as="sourcePoint" />
+            <mxPoint x="1645" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
