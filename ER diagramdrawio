@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T14:25:15.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="u1_OBBvoBLqzSE0jFdlQ" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T14:55:43.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8qAGR5GCL2eZuyh07dW4" version="15.8.2" type="github">
   <diagram id="DaxLUYXSGAjzxjcYx7G2" name="Page-1">
-    <mxGraphModel dx="4471" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4471" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,10 +187,10 @@
         <mxCell id="rNIgzTM6pCQafV8qVuJT-73" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-25" y="800" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rNIgzTM6pCQafV8qVuJT-74" value="rushDeliveryTime" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="rNIgzTM6pCQafV8qVuJT-74" value="deliveryInfoId" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-30" y="865" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rNIgzTM6pCQafV8qVuJT-75" value="Shipping fees" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="rNIgzTM6pCQafV8qVuJT-75" value="shippingFees" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-25" y="940" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rNIgzTM6pCQafV8qVuJT-76" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rNIgzTM6pCQafV8qVuJT-73" target="rNIgzTM6pCQafV8qVuJT-72" edge="1">
