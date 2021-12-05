@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T08:11:53.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="3_sF-pet1-HyLotxBBBO" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T08:12:34.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="f4LFgibFcKzdaoVUGAjZ" version="15.9.1" type="github">
   <diagram id="UtjhiPHCQkNaoNcG85TJ" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -122,10 +122,10 @@
           <mxGeometry x="680" y="1090" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D02X_YDx3sgQh4wHqPoC-46" value="Tên bộ phận" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#;fontColor=#000000;strokeColor=#000000;fillColor=#e5e5e5;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="1760" width="100" height="40" as="geometry" />
+          <mxGeometry x="1170" y="1740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D02X_YDx3sgQh4wHqPoC-47" value="Mã bộ phận" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=#;fontColor=#000000;strokeColor=#000000;fillColor=#e5e5e5;" parent="1" vertex="1">
-          <mxGeometry x="910" y="1750" width="100" height="40" as="geometry" />
+          <mxGeometry x="970" y="1740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0jfMnuuwv_ADZiA-GJic-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="D02X_YDx3sgQh4wHqPoC-5" target="D02X_YDx3sgQh4wHqPoC-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -181,7 +181,7 @@
             <mxPoint x="1180" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0jfMnuuwv_ADZiA-GJic-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="D02X_YDx3sgQh4wHqPoC-46" target="D02X_YDx3sgQh4wHqPoC-14" edge="1">
+        <mxCell id="0jfMnuuwv_ADZiA-GJic-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="D02X_YDx3sgQh4wHqPoC-46" target="D02X_YDx3sgQh4wHqPoC-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1067" y="1774.9599999999996" as="sourcePoint" />
             <mxPoint x="1105" y="1710" as="targetPoint" />
@@ -402,15 +402,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="1300" as="sourcePoint" />
             <mxPoint x="1650" y="1300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0jfMnuuwv_ADZiA-GJic-66" value="Tên quản lý&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#;fontColor=#000000;strokeColor=#000000;fillColor=#e5e5e5;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="1750" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0jfMnuuwv_ADZiA-GJic-67" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0jfMnuuwv_ADZiA-GJic-66" target="D02X_YDx3sgQh4wHqPoC-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="1780" as="sourcePoint" />
-            <mxPoint x="1130" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0jfMnuuwv_ADZiA-GJic-69" value="Quản lý" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
